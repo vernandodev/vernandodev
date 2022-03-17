@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **PT Mahir Tekno Utama**
 
-- 🌱 I’m currently learning **Frontend (Tailwindcss), Backend (Laravel, Flutter)**
+- 🌱 I’m currently learning **Frontend (Tailwindcss, Vuejs), Backend (Laravel, Flutter)**
 
 - 👯 I’m looking to collaborate on **KencanaTech**
 
