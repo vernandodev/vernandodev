@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vernandodev&label=Profile%20views&color=0e75b6&style=flat" alt="vernandodev" /> </p>
 
-<p align="left"> <a href="https://twitter.com/richo_vernando" target="blank"><img src="https://img.shields.io/twitter/follow/richo_vernando?logo=twitter&style=for-the-badge" alt="richo_vernando" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **PT Mahir Tekno Utama**
 
@@ -17,7 +17,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/richo_vernando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="richo_vernando" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/vernandodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vernandodev" height="30" width="40" /></a>
 <a href="https://codesandbox.com/fff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="fff" height="30" width="40" /></a>
 <a href="https://instagram.com/richovernando_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="richovernando_" height="30" width="40" /></a>
