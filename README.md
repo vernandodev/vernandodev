@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Freelance**
 
-- 🌱 I’m currently learning **Reactjs, Nodejs(express), Android**
+- 🌱 I’m currently learning **Nodejs( express, hapi ), (ReactJS, VueJS), Android**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vernandodev](https://github.com/vernandodev)
 
