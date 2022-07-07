@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Freelance**
 
-- 🌱 I’m currently learning **Nodejs( ExpressJS ), (ReactJS), Android (Kotlin)**
+- 🌱 I’m currently learning **Nodejs( ExpressJS ), React( NextJS ), Android (Kotlin)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vernandodev](https://github.com/vernandodev)
 
