@@ -5,8 +5,6 @@
 
 - 🌱 I use **Java, Javascript (Spring & React)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/vernandodev](https://github.com/vernandodev)
-
 - 📫 How to reach me **Richovrnando@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
