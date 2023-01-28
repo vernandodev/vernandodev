@@ -22,4 +22,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vernandodev&show_icons=true&locale=en" alt="vernandodev" /></p>
 
 <h3 align="left">Github Streak:</h3>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vernandodev"/></a>
+<a href="https://git.io/streak-stats"><img src="[https://streak-stats.demolab.com?user=vernandodev](https://streak-stats.demolab.com?user=vernandodev&theme=dark&currStreakNum=FFFFFF&background=3A3751)"/></a>
