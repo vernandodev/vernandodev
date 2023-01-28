@@ -23,3 +23,4 @@
 
 <h3 align="left">Github Streak:</h3>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vernandodev"/></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=vernandodev&theme=dark&currStreakNum=FFFFFF&background=3A3751)](https://git.io/streak-stats)
