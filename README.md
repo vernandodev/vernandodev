@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Freelance**
 
-- 🌱 I use **Java, Javascript (Spring & React)**
+- 🌱 I use **Java, Javascript (Spring & Angular)**
 
 - 📫 How to reach me **Richovrnando@gmail.com**
 
