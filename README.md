@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Richo</h1>
-<h3 align="center">I'm A Backend Developer from Jakarta, Indonesia</h3>
+<h3 align="center">I'm A Software Engineer from Jakarta, Indonesia</h3>
 
 - 🔭 I’m currently working on **Freelance**
 
