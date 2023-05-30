@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Richo</h1>
-<h3 align="center">I'm A Software Engineer from Jakarta, Indonesia</h3>
+<h3 align="center">I'm a Software Engineer from Jakarta, Indonesia</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=vernandodev&label=Profile%20views&color=0e75b6&style=flat" alt="vernandodev" /> </p>
 
