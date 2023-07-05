@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Freelance**
 
-- 🌱 I use **Java, Javascript, Typescript (Spring & React)**
+- 🌱 I use **Java, Javascript, Typescript (Spring & Angular)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vernandodev](https://github.com/vernandodev)
 
