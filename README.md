@@ -3,6 +3,8 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=vernandodev&label=Profile%20views&color=0e75b6&style=flat" alt="vernandodev" /> </p>
 
+<img src="github-header-image.png" />
+
 - 🔭 I’m currently working on **Freelance**
 
 - 🌱 I use **Java, Javascript**
@@ -27,4 +29,3 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vernandodev"/></a>
 
 <h3 align="left">Github Stats :</h3>
-
