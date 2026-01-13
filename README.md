@@ -45,8 +45,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
 </div>
 
-<h3 align="left">Github Streak :</h3>
+<!-- <h3 align="left">Github Streak :</h3>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vernandodev"/></a>
 
 <h3 align="left">Github Stats :</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vernandodev&show_icons=true&locale=en" alt="vernandodev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vernandodev&show_icons=true&locale=en" alt="vernandodev" /></p> -->
