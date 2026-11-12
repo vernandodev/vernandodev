@@ -1,17 +1,15 @@
-<h1 align="center">Hi 👋, I'm Richo</h1>
+<h1 align="center">Hi I'm Vernandodev</h1>
 <!-- <h3 align="center">I'm a Software Engineer from Jakarta, Indonesia</h3> -->
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=vernandodev&label=Profile%20views&color=0e75b6&style=flat" alt="vernandodev" /> </p>
 
-<p align="left">My name is Richo and I'm a Software Engineer, from Jakarta</p>
+<p align="left">I'm a Software Engineer, from Jakarta</p>
 
-- 📚 I'm currently learning Java Spring
+- I'm currently learning AI Engineering
 
-- 🌱 I use **Java**
+- All of my projects are available at [https://github.com/vernandodev](https://github.com/vernandodev)
 
-- 👨‍💻 All of my projects are available at [https://github.com/vernandodev](https://github.com/vernandodev)
-
-- 📫 How to reach me **Richovrnando@gmail.com**
+- How to reach me **Contact@vernandodev.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
